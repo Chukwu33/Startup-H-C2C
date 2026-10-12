@@ -29,9 +29,7 @@ python -m unittest
 
 ## Team
 
-Chukwu - owner
-
-- (your squad will add themselves here)
+Chukwu - owner, building studysprint
 
 ## Where to start
 
