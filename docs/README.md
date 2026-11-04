@@ -29,9 +29,7 @@ python -m unittest
 
 ## Team
 
-<!-- Add yourself here on your Git lesson: - Your Name (role) -->
-
-- (your squad will add themselves here)
+Chukwu - owner, building studysprint
 
 ## Where to start
 
